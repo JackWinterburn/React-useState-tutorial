@@ -1,0 +1,9 @@
+.input {
+    margin: 1rem;
+    background-color: #f1f1f1;
+    transition: 0.3s ease;
+}
+
+.input:focus {
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
